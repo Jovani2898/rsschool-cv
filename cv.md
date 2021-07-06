@@ -181,7 +181,13 @@
 ```
 ## Experience:
 I have watched many courses about HTML and Css, I have no work experience in this area, but I am very motivated to get some.
+## Education:
+* I studied at Caucasian University at the business faculty
 
+* multiple youtube video courses.
+
+## English:
+I studied many courses in English and also worked temporarily in a restaurant where the owners only spoke English.
 
 
 
